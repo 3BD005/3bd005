@@ -2,7 +2,7 @@
 
 ### Data Science Student · AI Developer
 
-I'm a **Data Science student at Jordan University of Science and Technology (JUST)** focused on building practical **AI systems, intelligent agents, and data-driven applications**.
+I'm a **Data Science student at Jordan University of Science and Technology *(JUST)*** focused on building practical **AI systems, intelligent agents, and data-driven applications**.
 
 🧠 **Interested in:** AI Agents · LLMs · RAG · Machine Learning · Backend Engineering
 
