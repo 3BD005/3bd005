@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/3bd005.gif" width="220" align="right">
+<img src="./assets/3bd005.gif" width="360" align="right" alt="Animated Globe">
 
 🎓 **Data Science Student** at **Jordan University of Science and Technology (JUST)**
 
