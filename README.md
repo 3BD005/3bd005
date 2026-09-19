@@ -4,7 +4,7 @@
 
 <img src="./assets/3bd005.gif" width="360" align="right" alt="Animated Globe">
 <br><br>
-
+<br><br>
 🎓 **Data Science Student** at **Jordan University of Science and Technology (JUST)**
 
 🤖 Interested in **AI, Machine Learning, Data Science & AI Agents**
