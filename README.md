@@ -1,25 +1,20 @@
 # Hi there, I'm Abdullah Abualigah 👋
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="55%" valign="middle">
+<div align="center">
 
-<p align="left">
-🎓 <b>Data Science Student</b> at <a href="https://www.just.edu.jo/">JUST</a><br><br>
-🤖 Interested in <b>AI, Machine Learning & AI Agents</b><br><br>
-🧠 Exploring <b>LLMs, RAG, and Agentic AI</b><br><br>
-💻 Building practical projects & learning by doing.<br><br>
-🌐 <a href="https://abdullah-abualigah-portfolio.onrender.com/"><b>Portfolio</b></a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-💼 <a href="https://www.linkedin.com/in/abdullah-abualigah-0323303a1/"><b>LinkedIn</b></a>
-</p>
+<img src="./assets/3bd005.gif" width="220" align="right">
 
-</td>
+🎓 **Data Science Student** at **Jordan University of Science and Technology (JUST)**
 
-<td width="45%" align="center" valign="middle">
+🤖 Interested in **AI, Machine Learning, Data Science & AI Agents**
 
-<img src="./assets/3bd005.gif" width="320" alt="Animated Globe">
+🧠 Exploring **LLMs, RAG, and Agentic AI**
 
-</td>
-</tr>
-</table>
+💻 Building practical projects and learning by doing.
+
+🌐 **[Portfolio](https://abdullah-abualigah-portfolio.onrender.com/)**
+💼 **[LinkedIn](https://www.linkedin.com/in/abdullah-abualigah-0323303a1/)**
+
+</div>
+
+<br clear="right">
