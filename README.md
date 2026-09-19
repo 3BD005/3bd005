@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Abdullah Abualigah 👋
 
-<!--
-**3BD005/3bd005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
 
-Here are some ideas to get you started:
+🎓 **Data Science Student** at Jordan University of Science and Technology (JUST)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in **AI, Machine Learning, Data Science & AI Agents**
+
+🧠 Exploring **LLMs, RAG, and Agentic AI**
+
+💻 Building practical projects and learning by doing.
+
+🌐 [Portfolio](https://abdullah-abualigah-portfolio.onrender.com/)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/abdullah-abualigah-0323303a1/)
+
+</td>
+
+<td align="right" valign="middle">
+
+<img src="./assets/3bd005.gif" width="280" alt="Rainbow animation">
+
+</td>
+</tr>
+</table>
