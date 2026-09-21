@@ -12,7 +12,7 @@
 
 💻 Building practical projects and learning by doing.
 
-🌐 **[Portfolio](https://abdullah-abualigah-portfolio.onrender.com/)**  || 💼 **[LinkedIn](https://www.linkedin.com/in/abdullah-abualigah-0323303a1/)**
+🌐 **[Portfolio](https://abdullah-abualigah-portfolio.onrender.com/)**  ||  💼 **[LinkedIn](https://www.linkedin.com/in/abdullah-abualigah-0323303a1/)**
 
 </div>
 
