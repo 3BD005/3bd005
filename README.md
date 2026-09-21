@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah Abualigah 👋
+# Hi there, I'm Abdullah Mohammad Abualigah 👋
 
 <div align="center">
 
