@@ -1,19 +1,18 @@
 <h1 align="center">Hi, I'm Abdullah Abualigah 👋</h1>
 
-<p align="center">
-  <img src="./assets/3bd005.gif" width="500">
-</p>
+<img src="./assets/3bd005.gif" width="220" align="left">
 
-<p align="center">
-  🎓 Data Science Student at <b>JUST</b><br>
-  🤖 AI · Machine Learning · Data Science · AI Agents<br>
-  🧠 Exploring <b>LLMs, RAG & Agentic AI</b>
-</p>
+🎓 **Data Science Student** at **Jordan University of Science and Technology (JUST)**
 
-<p align="center">
-  <a href="https://abdullah-abualigah-portfolio.onrender.com/">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/abdullah-abualigah-0323303a1/">💼 LinkedIn</a>
-</p>
+🤖 Interested in **AI, Machine Learning, Data Science & AI Agents**
+
+🧠 Exploring **LLMs, RAG, and Agentic AI**
+
+💻 Building practical projects and learning by doing.
+
+🌐 **[Portfolio](https://abdullah-abualigah-portfolio.onrender.com/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/abdullah-abualigah-0323303a1/)**
+
+<br clear="left">
 
 ---
 
