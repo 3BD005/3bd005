@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdullah Abualigah 👋</h1>
 
-<img src="./assets/3bd005.gif" width="220" align="right">
+<img src="./assets/3bd005.gif" width="320" align="right">
 
 🎓 **Data Science Student** at **Jordan University of Science and Technology (JUST)**
 
